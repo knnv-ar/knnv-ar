@@ -1,4 +1,4 @@
-### Hi there, I'm Raúl Federico Lacabanne, aka **knnv-ar**!
+### Hi there, I'm Raúl Federico Lacabanne, aka **knnv**!
 <!--
 **knnv-ar/knnv-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
